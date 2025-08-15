@@ -1,5 +1,5 @@
 # CS2 Group 10
-This is the repository of Rhiane Caye N. Salubre from Group 10 together with Jude Christian A. Carcasona and Venice Richzyl Mae T. Alquizar
+This is the repository of Venice Richzyl Mae T. Alquizar from Group 10 together with Jude Christian A. Carcasona and Rhiane Caye N. Salubre
 
 
 # Weekly Study Planner: A guide to full filling your project’s ultimate goal
