@@ -1,5 +1,5 @@
 # CS2 Group 10
-This is the repository of [name] from Group 10 together with {members}
+This is the repository of Rhiane Caye N. Salubre from Group 10 together with Jude Christian A. Carcasona and Venice Richzyl Mae T. Alquizar
 
 
 # Weekly Study Planner: A guide to full filling your project’s ultimate goal
@@ -11,7 +11,7 @@ Many students struggle to manage many assignments, projects, deadlines and acade
 
 ## Project objectives 
 
-Help students track projects and marks tasks completed if finished.
+Help students track projects and mark tasks completed if finished.
 
 Automatically sorts tasks by prioritizing the more important ones.
 
@@ -29,7 +29,7 @@ The Weekly Study Planner will include weekly task scheduling with support for up
 ## Planned Inputs and Outputs
 ### Planned Inputs
 
-User entered task: Such as Assignments, deadlines, and estimated completion times of activities.
+User entered tasks: Such as Assignments, deadlines, and estimated completion times of activities.
 
 
 Task categories: Subjects, topics, or types. such as exam, project, or reading activity
@@ -59,12 +59,33 @@ Rescheduling suggestions: Updated timetable when changes occur.
 
 
 ## Logic Plan ( pseudocode )
-
+1.	Start
+	
+2.	User inputs tasks and deadlines
+	
+3.	System saves inputs
+	
+4.	System sorts tasks by urgency and importance
+	
+5.	System creates weekly plan
+	
+6.	System Displays weekly plan
+	
+7.	Updates plans if tasks are changed
+	
+8.	Send reminders
+	
+9.	End
 
 
 
 ## Contributors
 Jude Christian A. Carcasona
+
 Rhiane Caye N. Salubre
+
 Venice Richzyl Mae T. Alquizar
+
+
+
 
